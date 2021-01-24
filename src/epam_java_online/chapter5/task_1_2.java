@@ -1,7 +1,6 @@
 package epam_java_online.chapter5;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 
 public class task_1_2 {
 
